@@ -3,7 +3,7 @@ A list of projects we hope to see our ecosystem consider building on Aptos
 
 | Name | Category | Description |
 |------|----------|-------------|
-| Token V2 Demo | Gaming | Proof of concept that demonstrates composable and dynamix NFTs, ideally a 3d video + Unity demo |
+| [Token V2 Demo](https://github.com/aptos-foundation/registry-projects/blob/main/registry/token_v2_demo.md) | Gaming | Proof of concept that demonstrates composable and dynamix NFTs, ideally a 3d video + Unity demo |
 | Unity Gaming | Gaming | Open source gaming demo |
 | Unreal SDK | Gaming | TBD |
 | Modeul (Smart Contract) Catalog DApp | Smart Contract | Search for modules, explore APIs, see verifiable audits of contracts, powered by the blockchain and indexer |
