@@ -9,7 +9,6 @@ A list of projects we hope to see our ecosystem consider building on Aptos
 | [Module (Smart Contract) Catalog DApp](https://github.com/aptos-foundation/registry-projects/blob/main/registry/module_catalog_dapp.md) | Smart Contract | Search for modules, explore APIs, see verifiable audits of contracts, powered by the blockchain and indexer |
 | [Move Linter](https://github.com/aptos-foundation/registry-projects/blob/main/registry/move_linter.md) | Move | A linter for Move ('clippy'). Rule based |
 | [Move Formatter](https://github.com/aptos-foundation/registry-projects/blob/main/registry/move_formatter.md) | Move | Move auto-format ('fmt') |
-| [Move VS Plugin](https://github.com/aptos-foundation/registry-projects/blob/main/registry/move_vs_plugin.md) | Move | Update the existing Move Plugin for Visual Video or create a new one |
 | [Move Spec Inference](https://github.com/aptos-foundation/registry-projects/blob/main/registry/move_spec_inference.md) | Move | Automatic inference of Move specifications |
 | [Move Decompiler](https://github.com/aptos-foundation/registry-projects/blob/main/registry/move_decomplier.md) | Move | Decomplier from bytecode to Move source code |
 | [Move Spec Testing](https://github.com/aptos-foundation/registry-projects/blob/main/registry/move_spec_testing.md) | Move | Ways for testing completeness of specs (e.g. mutation testing)|
