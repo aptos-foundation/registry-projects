@@ -1,17 +1,15 @@
 # **Registry Projects**
 A list of projects we hope to see our ecosystem consider building on Aptos
 
-| Name | Category | Description |
-|------|----------|-------------|
-| [Unity Gaming](https://github.com/aptos-foundation/registry-projects/blob/main/registry/unity_gaming.md) | Gaming | Open source gaming demo |
-| [Unreal SDK](https://github.com/aptos-foundation/registry-projects/blob/main/registry/unreal_sdk.md) | Gaming | Unreal Engine 5 is the second-largest game engine, Unreal SDK can help developers speed up the integration with Aptos|
-| [Module (Smart Contract) Catalog DApp](https://github.com/aptos-foundation/registry-projects/blob/main/registry/module_catalog_dapp.md) | Smart Contract | Search for modules, explore APIs, see verifiable audits of contracts, powered by the blockchain and indexer |
-| [Move Linter](https://github.com/aptos-foundation/registry-projects/blob/main/registry/move_linter.md) | Move | A linter for Move ('clippy'). Rule based |
-| [Move Formatter](https://github.com/aptos-foundation/registry-projects/blob/main/registry/move_formatter.md) | Move | Move auto-format ('fmt') |
-| [Move Spec Inference](https://github.com/aptos-foundation/registry-projects/blob/main/registry/move_spec_inference.md) | Move | Automatic inference of Move specifications |
-| [Move Decompiler](https://github.com/aptos-foundation/registry-projects/blob/main/registry/move_decomplier.md) | Move | Decomplier from bytecode to Move source code |
-| [Move Spec Testing](https://github.com/aptos-foundation/registry-projects/blob/main/registry/move_spec_testing.md) | Move | Ways for testing completeness of specs (e.g. mutation testing)|
-| [Move Fuzzing](https://github.com/aptos-foundation/registry-projects/blob/main/registry/move_fuzzing.md) | Move | A framework for Move simliar to cargo fuzz |
+| Name                                            | Category           | Description |
+|-------------------------------------------------|--------------------|-------------|
+| [Unity Gaming][unity] | Gaming | Open source gaming demo |
+| [Unreal SDK][unreal] | Gaming | TBD |
+| [Module (Smart Contract) Catalog DApp][catalog] | Developer Platform | Search for modules, explore APIs, see verifiable audits of contracts, powered by the blockchain and indexer |
+| [Move Linter][linter] | Move | A linter for Move ('clippy'). Rule based |
+| [Move Formatter][formatter] | Move | Move auto-format ('fmt') |
+| [Move Decompiler][decompiler]  | Move | Decomplier from bytecode to Move source code |
+| [Move Spec Testing][spec_tester] | Move | Ways for testing completeness of specs (mutation testing)|
 
 ---
 Guidelines
@@ -23,3 +21,12 @@ How to Apply
 
 ---
 FAQ
+
+[token]: ./registry/token_v2_demo.md
+[unity]: ./registry/unity_gaming.md
+[unreal]: ./registry/unreal_sdk.md
+[catalog]: ./registry/module_catalog_dapp.md
+[linter]: ./registry/move_linter.md
+[formatter]: ./registry/move_formatter.md
+[decompiler]: ./registry/move_decomplier.md
+[spec_tester]: ./registry/move_spec_testing.md
