@@ -3,9 +3,8 @@ A list of projects we hope to see our ecosystem consider building on Aptos
 
 | Name | Category | Description |
 |------|----------|-------------|
-| [Token V2 Demo](https://github.com/aptos-foundation/registry-projects/blob/main/registry/token_v2_demo.md) | Gaming | Proof of concept that demonstrates composable and dynamix NFTs, ideally a 3d video + Unity demo |
 | [Unity Gaming](https://github.com/aptos-foundation/registry-projects/blob/main/registry/unity_gaming.md) | Gaming | Open source gaming demo |
-| [Unreal SDK](https://github.com/aptos-foundation/registry-projects/blob/main/registry/unreal_sdk.md) | Gaming | TBD |
+| [Unreal SDK](https://github.com/aptos-foundation/registry-projects/blob/main/registry/unreal_sdk.md) | Gaming | Unreal Engine 5 is the second-largest game engine, Unreal SDK can help developers speed up the integration with Aptos|
 | [Module (Smart Contract) Catalog DApp](https://github.com/aptos-foundation/registry-projects/blob/main/registry/module_catalog_dapp.md) | Smart Contract | Search for modules, explore APIs, see verifiable audits of contracts, powered by the blockchain and indexer |
 | [Move Linter](https://github.com/aptos-foundation/registry-projects/blob/main/registry/move_linter.md) | Move | A linter for Move ('clippy'). Rule based |
 | [Move Formatter](https://github.com/aptos-foundation/registry-projects/blob/main/registry/move_formatter.md) | Move | Move auto-format ('fmt') |
@@ -15,7 +14,9 @@ A list of projects we hope to see our ecosystem consider building on Aptos
 | [Move Fuzzing](https://github.com/aptos-foundation/registry-projects/blob/main/registry/move_fuzzing.md) | Move | A framework for Move simliar to cargo fuzz |
 
 ---
-Guidelines 
+Guidelines
+
+Welcome to The Registry! This curated list of projects is designed to provide you with guidance on potential projects that you can build for the Aptos Network. Our existing grant program has already received numerous exceptional projects, if you already have something in mind, submit your applications through our standard grant program! However, If you're seeking guidance for what you can work on at the moment, you've come to the right place. The Registry curates a list of project ideas that we consider vital for fostering the growth and decentralization of the Aptos Ecosystem. Take some time to explore the project list, and apply here if you see anything that interests your or aligns with your team’s skillsets. We look forward to reviewing your applications! 
 
 ---
 How to Apply
