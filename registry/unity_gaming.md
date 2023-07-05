@@ -26,8 +26,6 @@ There are a few ways that a project can drive success in this space:
   
 **Grant amount**
 
-Up to 100k, amount varies based on,
-- The game/demo’s depth of integration with the Aptos blockchain
-- The visual fidelity of the game
-- The depth of gameplay mechanics
-- Other contributions to the Aptos game development ecosystem
+Please submit a realistic budget proposition clearly outlining the man-hour requirement for each milestone, rate-cards, along with other resources needed for the delivery of the project.
+Budget propositions should aim to remain lower than $50,000-$100,000.
+
