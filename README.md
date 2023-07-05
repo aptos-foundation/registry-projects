@@ -14,7 +14,11 @@ The Registry offers our ecosystem community and contributors a list of project i
 ---
 ## Overview
 
-Welcome to The Registry! This curated list of projects is designed to provide you with guidance on potential projects that you can build for the Aptos Network. Our existing grant program has already received numerous exceptional projects, if you already have something in mind, submit your applications through our standard grant program! However, If you're seeking guidance for what you can work on at the moment, you've come to the right place. The Registry curates a list of project ideas that we consider vital for fostering the growth and decentralization of the Aptos Ecosystem. Take some time to explore the project list, and apply using the Typeform link below if you see anything that interests your or aligns with your team’s skillsets. We look forward to reviewing your applications! 
+Welcome to The Registry! This curated list of projects is designed to provide you with guidance on potential projects that you can build for the Aptos Network. We have already received applications from hundreds of exceptional projects for the Aptos Foundation Grant Program – if you already have something in mind, submit your applications there! However, If you're seeking guidance for what you can work on at the moment, you've come to the right place! 
+
+The Registry curates a list of project ideas that we consider vital for fostering the growth and decentralization of the Aptos Ecosystem. Take some time to explore the project list, application process, guidelines, and apply using the link below if you see anything that interests you or aligns with your team’s skill sets. We look forward to reviewing your applications!
+
+[Apply here!](https://aptosfoundation.typeform.com/TheRegistry)
 
 ---
 ## Application Process and Guidelines
@@ -35,7 +39,7 @@ Among the key areas we wish to be informed, include but are not limited to:
     - About the Team
     - Name and Socials of core contributors to the Proposal (LinkedIn & Twitter)
     - Relevant experience of all core contributors
-    - References to prior projects built by the team and addressing similar needs as the selected project from The Registry
+    - References to prior projects built by the team with a similar scope as the selected project from The Registry
     - References to prior projects built by the team built in the Web2/Web3 spaces
 - Project Approach
     - Plans to tackle your selected project
@@ -52,7 +56,7 @@ Among the key areas we wish to be informed, include but are not limited to:
         - Bi-weekly or Monthly milestones with clear milestone deliverables
             - Milestones check in frequency is based on project size
         - Resources allocated across each Milestone & underlying man-hour requirement
-### With all the above ready and at hand, you are ready to submit your Proposal in the following TypeForm link: 
+### With all the above ready and at hand, you are ready to submit your Proposal in the following [TypeForm](https://aptosfoundation.typeform.com/TheRegistry)
 ---
 ## FAQ
 ### What to expect after the application is submitted?
@@ -74,6 +78,10 @@ You will also be prompted to complete a KYC verification. Once that is complete,
 - Enterprise companies
 - Academia and research teams
 - Research non-profits
+
+### Will the project have to be open-source?
+
+Yes, given the nature of the program and the type of projects identified, we believe it is important to ensure that all developments related to this program remain open-source, to the greater benefit of the Aptos ecosystem.
 
 ### Future project categories
 
