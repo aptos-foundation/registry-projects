@@ -51,4 +51,5 @@ The Aptos C++ SDK, and Unreal Engine 5 SDK, should be a clean and idiomatic port
 
 **Grant amount**
 
-Up to $75k USD
+Please submit a realistic budget proposition clearly outlining the man-hour requirement for each milestone, rate-cards, along with other resources needed for the delivery of the project.
+Budget propositions should aim to remain lower than $50,000-$75,000.
