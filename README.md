@@ -14,7 +14,7 @@ The Registry offers our ecosystem community and contributors a list of project i
 ---
 ## Overview
 
-Welcome to The Registry! This curated list of projects is designed to provide you with guidance on potential projects that you can build for the Aptos Network. We have already received applications from hundreds of exceptional projects for the Aptos Foundation Grant Program – if you already have something in mind, submit your applications there! However, If you're seeking guidance for what you can work on at the moment, you've come to the right place! 
+Welcome to The Registry! This curated list of projects is designed to provide you with guidance on potential projects that you can build for the Aptos Network. We have already received applications from hundreds of exceptional projects for the Aptos Foundation Grant Program – if you already have something in mind, submit your applications there! However, If you're seeking guidance for what you can work on at the moment, you've come to the right place.
 
 The Registry curates a list of project ideas that we consider vital for fostering the growth and decentralization of the Aptos Ecosystem. Take some time to explore the project list, application process, guidelines, and apply using the link below if you see anything that interests you or aligns with your team’s skill sets. We look forward to reviewing your applications!
 
@@ -25,15 +25,15 @@ The Registry curates a list of project ideas that we consider vital for fosterin
 
 ### Application Process
 
-The application process will consist in filling a TypeForm response, along with submitting a detailed document highlighting all critical areas of evaluation as highlighted in “Proposal Document & Requirements” below. 
+The application process will consist of filling out a form, along with submitting a detailed document highlighting all critical areas of evaluation as highlighted in “Proposal Document & Requirements” below.
 
 ### Proposal Document & Requirements:
 
 This should be submitted under one of the following formats: Google Doc, Notion or PDF.
 
-Please ensure to provide a thorough response to all of the fields below. This information will be key in helping our reviewers assess your Proposal, and ensure a timely response is provided. 
+Please provide a thorough response to all of the fields below. This information will be key in helping our reviewers assess your Proposal and ensure a timely response is provided. 
 
-Among the key areas we wish to be informed, include but are not limited to:
+The information included in your proposal should include, but is not limited to, the following criteria:
 
 - Team & Experience:
     - About the Team
@@ -56,20 +56,20 @@ Among the key areas we wish to be informed, include but are not limited to:
         - Bi-weekly or Monthly milestones with clear milestone deliverables
             - Milestones check in frequency is based on project size
         - Resources allocated across each Milestone & underlying man-hour requirement
-### With all the above ready and at hand, you are ready to submit your Proposal in the following [TypeForm](https://aptosfoundation.typeform.com/TheRegistry)
+### Have all of the above documentation ready? Submit your Proposal in the following [TypeForm](https://aptosfoundation.typeform.com/TheRegistry)
 ---
 ## FAQ
 ### What to expect after the application is submitted?
 
 We will review your applications within 3-4 weeks. Once the review is completed, the team will reach out to inform you of the outcome of your submission and share next steps if warranted. 
 
-Our team may at times reach out to request for additional information as part of the review process. Please ensure to provide clarifications where needed.
+Our team may at times reach out to request for additional information as part of the review process. Please provide clarifications when required and requested.
 
 ### What to expect when your application is approved?
 
-Once your application is approved, we will have a kickoff meeting to review the project plan, and discuss your application details.
+If your application is approved, a kickoff meeting will be scheduled to review the project plan, and discuss your application details.
 
-You will also be prompted to complete a KYC verification. Once that is complete, the Foundation will proceed in issuing the Project Agreement. 
+You will also be prompted to complete a Know Your Customer (KYC) verification. Once that is complete, the Foundation will proceed in issuing the Project Agreement. 
 
 ### Who’s eligible for this program?
 
@@ -77,7 +77,7 @@ You will also be prompted to complete a KYC verification. Once that is complete,
 - Small teams
 - Enterprise companies
 - Academia and research teams
-- Research non-profits
+- Non-profit research orgnizations
 
 ### Will the project have to be open-source?
 
