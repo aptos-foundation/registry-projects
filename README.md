@@ -3,13 +3,13 @@ The Registry offers our ecosystem community and contributors a list of project i
 
 | Project Code | Name                                            | Category           | Description |
 |--------------|-------------------------------------------------|--------------------|-------------|
-| 1 | [Unity Gaming][unity] | Gaming | Open source gaming demo |
-| 2 | [Unreal SDK][unreal] | Gaming | Unreal Engine 5 is the second-largest game engine, Unreal SDK can help speed up gaming integrations with the Aptos network |
-| 3 | [Module (Smart Contract) Catalog DApp][catalog] | Developer Platform | Search for modules, explore APIs, see verifiable audits of contracts, powered by the blockchain and indexer |
-| 4 | [Move Linter][linter] | Move | A linter for Move ('clippy'). Rule based |
-| 5 | [Move Formatter][formatter] | Move | Move auto-format ('fmt') |
-| 6 | [Move Decompiler][decompiler]  | Move | Decomplier from bytecode to Move source code |
-| 7 | [Move Spec Testing][spec_tester] | Move | Ways for testing completeness of specs (mutation testing)|
+| GM-01 | [Unity Gaming][unity] | Gaming | Open source gaming demo |
+| GM-02 | [Unreal SDK][unreal] | Gaming | Unreal Engine 5 is the second-largest game engine, Unreal SDK can help speed up gaming integrations with the Aptos network |
+| DV-01 | [Module (Smart Contract) Catalog DApp][catalog] | Developer Platform | Search for modules, explore APIs, see verifiable audits of contracts, powered by the blockchain and indexer |
+| MV-01 | [Move Linter][linter] | Move | A linter for Move ('clippy'). Rule based |
+| MV-02 | [Move Formatter][formatter] | Move | Move auto-format ('fmt') |
+| MV-03 | [Move Decompiler][decompiler]  | Move | Decomplier from bytecode to Move source code |
+| MV-04 | [Move Spec Testing][spec_tester] | Move | Ways for testing completeness of specs (mutation testing)|
 
 ---
 ## Overview
@@ -29,9 +29,9 @@ The application process will consist of filling out a form, along with submittin
 
 ### Proposal Document & Requirements:
 
-This should be submitted under one of the following formats: Google Doc, Notion or PDF.
+This should be submitted under one of the following formats: Google Doc, Notion or PDF. Should you choose to share a Google Doc or Notion, please make sure to have the access shared with Grants@aptosfoundation.org, Blazaar@aptosfoundation.org, Lchavez@aptosfoundation.org, and Ctaylor@aptosfoundation.org. 
 
-Please provide a thorough response to all of the fields below. This information will be key in helping our reviewers assess your Proposal and ensure a timely response is provided. 
+Please provide a thorough response to all of the fields below. This information will be key in helping our reviewers assess your proposal and ensure a timely response is provided.
 
 The information included in your proposal should include, but is not limited to, the following criteria:
 
