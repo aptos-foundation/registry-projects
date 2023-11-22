@@ -46,4 +46,4 @@ The Aptos blockchain supports voting in on-chain governance from any token holde
     - Any critical updates such as correcting any description/metadata issues for proposals
  
 **Grant Amount**
-- Total effort estimation: ~$50k (4 months for 2 engineers - FE + BE and ~1-2 months of work for one designer + 1 month of maintenance/bug fixes)
+- Total effort estimation: (4 months for 2 engineers - FE + BE and ~1-2 months of work for one designer + 1 month of maintenance/bug fixes)
