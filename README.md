@@ -3,7 +3,7 @@ The Registry offers our ecosystem community and contributors a list of project i
 
 | Project Code | Name                                            | Category           | Description |Application Status| Project Status|
 |--------------|-------------------------------------------------|--------------------|-------------|------------------|---------------|
-| GV-01 | [Governance UI][governance] | Governance | A more comprehensive and vibrant UI for Aptos on chain governance | Open | New |
+| GV-01 | [Governance UI][governance] | Governance | A more comprehensive and vibrant UI for Aptos on chain governance | Closed | Team selected |
 | GM-01 | [Unity Gaming][unity] | Gaming | Open source gaming demo | Closed | Project in developement |
 | GM-02 | [Unreal SDK][unreal] | Gaming | Unreal Engine 5 is the second-largest game engine, Unreal SDK can help speed up gaming integrations with the Aptos network | Closed | Project in development|
 | DV-01 | [Module (Smart Contract) Catalog DApp][catalog] | Developer Platform | Search for modules, explore APIs, see verifiable audits of contracts, powered by the blockchain and indexer | Closed | Project in development|
