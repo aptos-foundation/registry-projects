@@ -1,6 +1,12 @@
 # **The Registry - Aptos Foundation Grant Program**
 The Registry offers our ecosystem community and contributors a list of project ideas that we consider vital for fostering the growth and decentralization of the Aptos ecosystem.
 
+## Live Projects
+| Project Code | Name                                            | Category           | Description |Application Status| Project Status|
+|--------------|-------------------------------------------------|--------------------|-------------|------------------|---------------|
+| DF-01 | [Options][options] | DeFi | Unlock the full potential of on-chain options trading | Coming Soon | Coming Soon |
+
+## Ongoing/Completed Projects
 | Project Code | Name                                            | Category           | Description |Application Status| Project Status|
 |--------------|-------------------------------------------------|--------------------|-------------|------------------|---------------|
 | GV-01 | [Governance UI][governance] | Governance | A more comprehensive and vibrant UI for Aptos on chain governance | Closed | Project in development |
@@ -106,3 +112,4 @@ Yes, given the nature of the program and the type of projects identified, we bel
 [decompiler]: ./registry/move_decomplier.md
 [spec_tester]: ./registry/move_spec_testing.md
 [governance]: ./registry/governance_ui.md
+[options]: ./registry/options.md
