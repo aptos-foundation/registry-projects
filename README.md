@@ -3,6 +3,9 @@ The Registry offers our ecosystem community and contributors a list of project i
 
 | Project Code | Name                                            | Category           | Description |Application Status| Project Status|
 |--------------|-------------------------------------------------|--------------------|-------------|------------------|---------------|
+| DF-01 | [Options][options] | DeFi | Development of new on-chain options protocols | Open | Not Started |
+| DF-02 | [Prediction][prediction] | DeFi | Power of crowdsourced insights with blockchain benefits for accurate, transparent forecasting | Open | Not Started |
+| DF-03 | [Sportsbook][sportsbook] | DeFi | Transparent, secure record-keeping and leveraging crypto features for liquidity and fairness | Open | Not Started |
 | GV-01 | [Governance UI][governance] | Governance | A more comprehensive and vibrant UI for Aptos on chain governance | Closed | Project in development |
 | GM-01 | [Unity Gaming][unity] | Gaming | Open source gaming demo | Closed | Project in developement |
 | GM-02 | [Unreal SDK][unreal] | Gaming | Unreal Engine 5 is the second-largest game engine, Unreal SDK can help speed up gaming integrations with the Aptos network | Closed | Project in development|
@@ -106,3 +109,6 @@ Yes, given the nature of the program and the type of projects identified, we bel
 [decompiler]: ./registry/move_decomplier.md
 [spec_tester]: ./registry/move_spec_testing.md
 [governance]: ./registry/governance_ui.md
+[options]: ./registry/options.md
+[prediction]: ./registry/prediction.md
+[sportsbook]: ./registry/sportsbook.md
