@@ -1,11 +1,17 @@
 # **The Registry - Aptos Foundation Grant Program**
 The Registry offers our ecosystem community and contributors a list of project ideas that we consider vital for fostering the growth and decentralization of the Aptos ecosystem.
 
+## Live Projects
 | Project Code | Name                                            | Category           | Description |Application Status| Project Status|
 |--------------|-------------------------------------------------|--------------------|-------------|------------------|---------------|
 | DF-01 | [Options][options] | DeFi | Development of new on-chain options protocols | Open | Not Started |
 | DF-02 | [Prediction Market][prediction] | DeFi | Power of crowdsourced insights with blockchain benefits for accurate, transparent forecasting | Open | Not Started |
 | DF-03 | [Sportsbook][sportsbook] | DeFi | Transparent, secure record-keeping and leveraging crypto features for liquidity and fairness | Open | Not Started |
+
+---
+## In Development / Closed
+| Project Code | Name                                            | Category           | Description |Application Status| Project Status|
+|--------------|-------------------------------------------------|--------------------|-------------|------------------|---------------|
 | GV-01 | [Governance UI][governance] | Governance | A more comprehensive and vibrant UI for Aptos on chain governance | Closed | Project in development |
 | GM-01 | [Unity Gaming][unity] | Gaming | Open source gaming demo | Closed | Project in developement |
 | GM-02 | [Unreal SDK][unreal] | Gaming | Unreal Engine 5 is the second-largest game engine, Unreal SDK can help speed up gaming integrations with the Aptos network | Closed | Project in development|
