@@ -1,32 +1,34 @@
-# Registry: Sportsbook
+# Registry: Sports Hub
 
 ### Overview
 
-Sports betting is a popular form of entertainment and speculation worldwide, yet it faces several challenges that can undermine trust and limit accessibility.
+Predicting the outcome of sporting events is a form of entertainment worldwide, yet it faces several challenges that can undermine trust and limit accessibility.
 
-- The lack of transparency in traditional sports betting systems is a significant concern, as bettors often struggle to verify the integrity of the odds calculation and payout processes.
-- The centralized nature of sportsbooks makes them vulnerable to potential fraud and manipulation by insiders, as well as risks associated with frozen payouts in certain jurisdictions.
+- The lack of transparency in traditional sports prediction platforms is a significant concern, as participants often struggle to verify the integrity of the odds calculation and payout processes.
+- The centralized nature of traditional venues makes them vulnerable to potential fraud and manipulation by insiders, as well as risks associated with frozen payouts in certain jurisdictions.
 
-By integrating Aptos, sports betting platforms can offer a scalable, transparent, and immutable record of all transactions, allowing users to verify the integrity of the system and its brand.
+By integrating Aptos, sports prediction platforms can offer a scalable, transparent, and immutable record of all transactions, allowing users to verify the integrity of the system and its brand.
 
-There is a significant opportunity to utilize crypto primitives such as randomness, collateralization, and on-chain yield generation for liquidity providers (LPs).
+There is a significant opportunity to utilize crypto primitives such as randomness, collateralization, and on-chain yield generation for liquidity providers (LPs). 
+
+Predicting the outcome of sporting events may be regulated or prohibited in certain jurisdictions. To the extent these activities are prohibited in certain jurisdictions, applicants are required to limit access in such jurisdictions. Applicants must ensure that their applications are compliant with all relevant laws
 
 ### Key Features
 
-1. **Bet Processing**
-    - Bets are processed and stored on Aptos, providing a tamper-proof record.
-    - Smart contracts automate payouts based on verified results, eliminating the need for manual processing.
+1. **Transaction Processing**
+    - Transactions are processed and stored on Aptos, providing a tamper-proof record
+    - Smart contracts automate payouts based on verified results, eliminating the need for manual processing
 2. **Odds Management**
-    - Odds are dynamically calculated based on the betting pool's state and integrated external data using smart contracts.
-    - Provides fair and transparent odds to all participants, reducing the risk of manipulated payouts by using Aptos’ verified random module, [Roll](https://aptoslabs.medium.com/roll-with-move-secure-instant-randomness-on-aptos-c0e219df3fb1), as needed.
+    - Odds are dynamically calculated based on the prediction pool's state and integrated external data using smart contracts
+    - Provides fair and transparent odds to all participants, reducing the risk of manipulated payouts by using Aptos’ verified random module, [Roll](https://aptoslabs.medium.com/roll-with-move-secure-instant-randomness-on-aptos-c0e219df3fb1), as needed
 3. **Event Management**
-    - Users and oracles update and verify event outcomes in real-time, ensuring accurate and timely bet resolutions as well as real-time calculations of position value.
-    - Supports live betting on events as they occur, with odds updated in real-time by decentralized algorithms and oracles.
+    - Users and oracles update and verify event outcomes in real-time, ensuring accurate and timely prediction resolutions as well as real-time calculations of position value
+    - Supports predictions on events as they occur, with odds updated in real-time by decentralized algorithms and oracles.
 4. **User Experience**
-    - Easy-to-use interfaces for placing, tracking, and settling bets.
-    - Feature parity with leading sportsbook platforms to ensure a competitive user experience.
+    - Easy-to-use interfaces for placing, tracking, and settling predictions
+    - Feature parity with leading sports hub platforms to ensure a competitive user experience
 
-### Sports to Focus On
+### Potential Sports to Focus On
 
 1. **Football (Soccer)**
 2. **American Football**
@@ -67,14 +69,14 @@ There is a significant opportunity to utilize crypto primitives such as randomne
     - Formula 1
     - NASCAR
     - MotoGP
-14. **Olympic Sports**
+14. Olympic Sports
 
 ### Example Smart Contracts
 
-1. **Event Registry Contract**: Registers sports events on the blockchain, allowing bettors and oracles to access verified event data.
-2. **Betting Engine Contract**: Manages the logic for placing bets, storing them, and locking in odds at the time of betting.
-3. **Payout Engine Contract**: Calculates and distributes winnings based on the outcomes provided by the result verification process.
-4. **Oracle Interface Contract**: Interfaces with external oracles for real-time data feed integration, ensuring that event outcomes are updated promptly and accurately.
-5. **User Management Contract**: Handles user registration, and maintains user balance and transaction history.
-6. **Liquidity Pool Contract**: Facilitates liquidity management for handling large volumes of bets and ensuring sufficient funds are available for payouts.
-7. **Fee Controller Contract**: Manages the collection and redistribution of fees within the platform to fund operations and reward token holders.
+1. **Event Registry Contract**: Registers sports events on the blockchain, allowing participants and oracles to access verified event data
+2. **Transaction Management Contract**: Manages the logic for placing predictions, storing them, and locking in odds at the time of prediction
+3. **Payout Engine Contract**: Calculates and distributes winnings based on the outcomes provided by the result verification process
+4. **Oracle Interface Contract**: Interfaces with external oracles for real-time data feed integration, ensuring that event outcomes are updated promptly and accurately
+5. **User Management Contract**: Handles user registration, and maintains user balance and transaction history
+6. **Liquidity Pool Contract**: Facilitates liquidity management for handling large volumes of predictions and ensuring sufficient funds are available for payouts
+7. **Fee Controller Contract**: Manages the collection and redistribution of fees within the platform to fund operations
