@@ -81,8 +81,3 @@ Built using one of the implementations listed under [Implementations](https://ww
 7. **Governance Contract:** Facilitates platform governance, allowing for updates and modifications to parameters or features as dictated by protocol stakeholders
 8. **Oracle Contract:** Integrates external data feeds to provide real-time pricing information of underlying assets
 
----
-
-(Internal only) Funding estimate: $150-200k depending on quality of team
-
-Target teams to fund: 2
