@@ -6,7 +6,7 @@ The Registry offers our ecosystem community and contributors a list of project i
 |--------------|-------------------------------------------------|--------------------|-------------|------------------|---------------|
 | DF-01 | [Options][options] | DeFi | Development of new on-chain options protocols | Open | Not Started |
 | DF-02 | [Prediction Markets][prediction] | DeFi | Power of crowdsourced insights with blockchain benefits for accurate, transparent forecasting | Open | Not Started |
-| DF-03 | [Sportsbook][sportsbook] | DeFi | Transparent, secure record-keeping and leveraging crypto features for liquidity and fairness | Open | Not Started |
+| DF-03 | [Sports Hub][sportsbook] | DeFi | Transparent, secure record-keeping and leveraging crypto features for liquidity and fairness | Open | Not Started |
 
 ---
 ## In Development / Closed
