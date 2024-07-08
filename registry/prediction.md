@@ -7,10 +7,10 @@ Prediction markets efficiently gather and synthesize dispersed information and d
 Operating a prediction market may be regulated or prohibited in certain jurisdictions. To the extent these activities are prohibited in certain jurisdictions, applicants are required to limit access in such jurisdictions. Applicants must ensure that their applications are compliant with all relevant laws
 ### Key Features
 
-- **Trading Mechanism**: Participants buy and sell shares representing possible outcomes of events, with payouts based on the realized outcome.
-- **Market Interpretation**: Prices of traded contracts are seen as predictions of the probability of each outcome.
-- **Application Areas**: Used for forecasting in politics, sports, finance, and scientific studies.
-- **Matching Buyers and Sellers**: Platforms use automated market makers or order book trading mechanisms.
+- **Prediction Mechanism**: Participants buy and sell positions representing possible outcomes of events, with payouts based on the realized outcome
+- **Market Interpretation**: Prices of traded predictions act as the probability of each outcome
+- **Application Areas**: Used for forecasting in politics, sports, finance, and scientific studies
+- **Matching Buyers and Sellers**: Platforms use automated market makers or order book trading mechanisms
 
 ### Example Markets to Target
 
@@ -21,12 +21,11 @@ Operating a prediction market may be regulated or prohibited in certain jurisdic
     - **Season Outcomes**: Playoff qualifications, championship winners
 2. **Politics**:
     - **Election Outcomes**: Presidential, congressional, local elections
-    - **Legislative Actions**: Passage of key legislations, policy decisions
+    - **Legislative Actions**: Passage of key legislation, policy decisions
     - **International Relations**: Diplomatic events, treaties, conflicts
     - **Political Milestones**: Cabinet formations, leadership changes
 3. **Finance**:
     - **Stock Market**: Price movements of major stocks, IPO outcomes
-    - **Cryptocurrency**: Price trends of popular cryptocurrencies, market cap predictions
     - **Economic Indicators**: GDP growth, unemployment rates, inflation rates
     - **Corporate Events**: Mergers, acquisitions, earnings reports
 4. **Entertainment**:
@@ -52,13 +51,19 @@ Operating a prediction market may be regulated or prohibited in certain jurisdic
 
 ### Example Smart Contract Functions
 
-1. **Create Market**: This function allows users to create new prediction markets. It would require parameters such as the event or question being predicted, the conditions or outcomes users can bet on, and other relevant market details.
-2. **Place Bet**: Users can use this function to place bets on the outcomes of existing markets. They would specify the market, the condition they are betting on, and the amount they are wagering.
+1. **Create Market**: This function allows users to create new prediction markets. It would require parameters such as the event or question being predicted, the conditions or outcomes users can predict, and other relevant market details.
+2. **Place Prediction**: Users can use this function to place predictions on the outcomes of existing markets. They would specify the market, the condition they are predicting on, and the amount they are wagering.
 3. **Resolve Market**: After the event or condition is determined, this function is used to resolve the market and distribute winnings to the users who made correct predictions. It should take into account oracle data for accurate resolution.
-4. **Withdraw Winnings**: Users who have won bets should be able to withdraw their winnings from the smart contract to their wallets.
-5. **Market Information**: Provide functions to retrieve information about active markets, their conditions, and current betting odds.
+4. **Withdraw Winnings**: Users who have made correct predictions should be able to withdraw their assets from the smart contract to their wallets.
+5. **Market Information**: Provide functions to retrieve information about active markets, their conditions, and other relevant details.
 6. **Audit Trail**: Implement a function to log all interactions with the smart contract, ensuring transparency and accountability.
 7. **Oracle Integration**: Smart contracts should have the ability to integrate with trusted oracles (Pyth, SwitchBoard, SupraOracles) to fetch real-world data for market resolution.
-8. **User Balances**: Allow users to check their account balances within the smart contract, including their available funds and pending bets.
-9. **Cancel Bets**: Users might want to cancel their bets before the market is resolved. Implement a function to allow for bet cancellation under certain conditions.
-10. **Market Expiry**: Define a mechanism to automatically close markets after a specified time to prevent betting on outdated events.
+8. **User Balances**: Allow users to check their account balances within the smart contract, including their available funds and pending predictions.
+9. **Cancel**: Users might want to cancel their prediction before the market is resolved. Implement a function to allow for cancellation under certain conditions.
+10. **Market Expiry**: Define a mechanism to automatically close markets after a specified time to prevent utilization of outdated events.
+
+---
+
+Funding estimate: $100-150k depending on quality of team
+
+Target teams to fund: 1
