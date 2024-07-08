@@ -14,7 +14,7 @@ Please note that derivatives trading is regulated in certain jurisdictions. Appl
     
     Using ThreeSigma’s [analysis](https://threesigma.xyz/blog/defi-options-landscape) as a guide, you can can consider 4 categories that most on-chain options fall into.
     
-    1. [**Orderbooks**](https://www.investopedia.com/terms/o/order-book.asp)** 
+    1. [**Orderbooks**](https://www.investopedia.com/terms/o/order-book.asp) 
         1. [Econia](https://www.econialabs.com/) is the Aptos’ first fully on-chain order book and can serve as a liquidity layer for you to build options with 
         2. Protocols for reference: [Aevo](https://www.aevo.xyz/), [PsyFi](https://www.psyfi.io/), and [Zeta](https://www.zeta.markets/)
     2. **AMMs** - Automated Market Makers
