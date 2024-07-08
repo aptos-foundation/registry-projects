@@ -62,8 +62,4 @@ Operating a prediction market may be regulated or prohibited in certain jurisdic
 9. **Cancel**: Users might want to cancel their prediction before the market is resolved. Implement a function to allow for cancellation under certain conditions.
 10. **Market Expiry**: Define a mechanism to automatically close markets after a specified time to prevent utilization of outdated events.
 
----
 
-Funding estimate: $100-150k depending on quality of team
-
-Target teams to fund: 1
