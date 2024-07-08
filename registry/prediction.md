@@ -2,8 +2,9 @@
 
 ### Overview
 
-Prediction markets efficiently gather and synthesize dispersed information and diverse opinions from participants, leading to more accurate forecasts. Reputable examples include [Polymarket](https://polymarket.com/) and [Augur](https://augur.net/). By aligning financial incentives with accurate predictions, prediction markets encourage participants to reveal their true beliefs, leading to more efficient markets. By building permissionless prediction market platforms on Aptos, we further enhance these benefits by leveraging the blockchain's performance, transparency, decentralization, and security features.
+Prediction markets efficiently gather and synthesize dispersed information and diverse opinions from participants, leading to more accurate forecasts. Reputable examples include [Polymarket](https://polymarket.com/) and [Augur](https://augur.net/). By aligning financial incentives with accurate predictions, prediction markets encourage participants to reveal their true beliefs, leading to more accurate predictions. By building permissionless prediction market platforms on Aptos, developers could further enhance these benefits by leveraging the blockchain's performance, transparency, decentralization, and security features
 
+Operating a prediction market may be regulated or prohibited in certain jurisdictions. To the extent these activities are prohibited in certain jurisdictions, applicants are required to limit access in such jurisdictions. Applicants must ensure that their applications are compliant with all relevant laws
 ### Key Features
 
 - **Trading Mechanism**: Participants buy and sell shares representing possible outcomes of events, with payouts based on the realized outcome.
