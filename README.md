@@ -39,7 +39,7 @@ The application process will consist of filling out a form, along with submittin
 
 ### Proposal Document & Requirements:
 
-This should be submitted under one of the following formats: Google Doc, Notion or PDF. Should you choose to share a Google Doc or Notion, please make sure to have the access shared with Grants@aptosfoundation.org, Blazaar@aptosfoundation.org, Lchavez@aptosfoundation.org, and Ctaylor@aptosfoundation.org. 
+This should be submitted under one of the following formats: Google Doc, Notion or PDF. Should you choose to share a Google Doc or Notion, please make sure to have the access shared with Grants@aptosfoundation.org, Blazaar@aptosfoundation.org, cshefttannenbaum@aptosfoundation.org, and richard.ban@aptoslabs.com. 
 
 Please provide a thorough response to all of the fields below. This information will be key in helping our reviewers assess your proposal and ensure a timely response is provided.
 
