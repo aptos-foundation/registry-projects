@@ -14,10 +14,10 @@ The Registry offers our ecosystem community and contributors a list of project i
 | GM-01 | [Unity Gaming][unity] | Gaming | Open source gaming demo | Closed | Project in developement |
 | GM-02 | [Unreal SDK][unreal] | Gaming | Unreal Engine 5 is the second-largest game engine, Unreal SDK can help speed up gaming integrations with the Aptos network | Closed | Project in development|
 | DV-01 | [Module (Smart Contract) Catalog DApp][catalog] | Developer Platform | Search for modules, explore APIs, see verifiable audits of contracts, powered by the blockchain and indexer | Closed | Project in development|
-| MV-01 | [Move Linter][linter] | Move | A linter for Move ('clippy'). Rule based | Closed | Project in development|
-| MV-02 | [Move Formatter][formatter] | Move | Move auto-format ('fmt') | Closed | Project in development|
-| MV-03 | [Move Decompiler][decompiler]  | Move | Decomplier from bytecode to Move source code | Closed | Project in development|
-| MV-04 | [Move Spec Testing][spec_tester] | Move | Ways for testing completeness of specs (mutation testing)| Closed | Project in development|
+| MV-01 | [Move Linter][linter] | Move | A linter for Move ('clippy'). Rule based | Closed | Completed|
+| MV-02 | [Move Formatter][formatter] | Move | Move auto-format ('fmt') | Closed | Completed|
+| MV-03 | [Move Decompiler][decompiler]  | Move | Decomplier from bytecode to Move source code | Closed | Completed|
+| MV-04 | [Move Spec Testing][spec_tester] | Move | Ways for testing completeness of specs (mutation testing)| Closed | Completed|
 
 ---
 ## Overview
