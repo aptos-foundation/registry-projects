@@ -4,7 +4,6 @@ The Registry offers our ecosystem community and contributors a list of project i
 ## Live Projects
 | Project Code | Name                                            | Category           | Description |Application Status| Project Status|
 |--------------|-------------------------------------------------|--------------------|-------------|------------------|---------------|
-| DF-01 | [Sports Hub][sportsbook] | DeFi | Transparent, secure record-keeping and leveraging crypto features for liquidity and fairness | Open | Not Started |
 
 ---
 ## In Development / Closed
@@ -18,6 +17,7 @@ The Registry offers our ecosystem community and contributors a list of project i
 | MV-02 | [Move Formatter][formatter] | Move | Move auto-format ('fmt') | Closed | Completed|
 | MV-03 | [Move Decompiler][decompiler]  | Move | Decomplier from bytecode to Move source code | Closed | Completed|
 | MV-04 | [Move Spec Testing][spec_tester] | Move | Ways for testing completeness of specs (mutation testing)| Closed | Completed|
+| DF-01 | [Sports Hub][sportsbook] | DeFi | Transparent, secure record-keeping and leveraging crypto features for liquidity and fairness | Closed | Project in development |
 
 ---
 ## Overview
