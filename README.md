@@ -4,7 +4,7 @@ The Registry offers our ecosystem community and contributors a list of project i
 ## Live Projects
 | Project Code | Name                                            | Category           | Description |Application Status| Project Status|
 |--------------|-------------------------------------------------|--------------------|-------------|------------------|---------------|
-
+|  |  |  |  |  | COMING SOON |
 ---
 ## In Development / Closed
 | Project Code | Name                                            | Category           | Description |Application Status| Project Status|
