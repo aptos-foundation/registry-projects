@@ -26,7 +26,7 @@ Welcome to The Registry! This curated list of projects is designed to provide yo
 
 The Registry curates a list of project ideas that we consider vital for fostering the growth and decentralization of the Aptos Ecosystem. Take some time to explore the project list, application process, guidelines, and apply using the link below if you see anything that interests you or aligns with your team’s skill sets. We look forward to reviewing your applications!
 
-[Apply here!](https://aptosfoundation.typeform.com/TheRegistry)
+[Apply here!](https://aptosfoundation.typeform.com/registry)
 
 ---
 ## Application Process and Guidelines
@@ -64,7 +64,7 @@ The information included in your proposal should include, but is not limited to,
         - Bi-weekly or Monthly milestones with clear milestone deliverables
             - Milestones check in frequency is based on project size
         - Resources allocated across each Milestone & underlying man-hour requirement
-### Have all of the above documentation ready? Submit your Proposal in the following [TypeForm](https://aptosfoundation.typeform.com/TheRegistry)
+### Have all of the above documentation ready? Submit your Proposal in the following [TypeForm](https://aptosfoundation.typeform.com/registry)
 ---
 ## FAQ
 ### What to expect after the application is submitted?
